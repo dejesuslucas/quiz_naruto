@@ -1,0 +1,5 @@
+C:\Users\EtecJa\Desktop\Quiz.exe
+C:\Users\EtecJa\Desktop\Quiz.dll
+C:\Users\EtecJa\Desktop\Quiz.deps.json
+C:\Users\EtecJa\Desktop\Quiz.runtimeconfig.json
+C:\Users\EtecJa\Desktop\Quiz.pdb

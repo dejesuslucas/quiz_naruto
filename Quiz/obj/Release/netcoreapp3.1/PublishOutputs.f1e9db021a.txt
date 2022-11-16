@@ -1,0 +1,5 @@
+D:\Quiz.exe
+D:\Quiz.dll
+D:\Quiz.deps.json
+D:\Quiz.runtimeconfig.json
+D:\Quiz.pdb
